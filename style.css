@@ -1,0 +1,133 @@
+
+html{
+	font-size: 100%;
+}
+
+
+
+
+
+/* =====================Start Header area==================#*/
+.logo .navbar-brand.text-dark.h1 {
+	font-size: 45px;
+	font-weight: 900;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-right: 1.5rem;
+	padding-left: 1.5rem;
+}
+
+.button .btn.btn-outline-danger.px-5 {
+	font-weight: 700;
+}
+
+
+.carousel-caption {
+	position: absolute;
+	right: 15%;
+	bottom: 33% !important;
+	left: 15%;
+	padding-top: 1.25rem;
+	padding-bottom: 1.25rem;
+	color: #fff;
+	text-align: center;
+	/* top: 50%; */
+}
+
+
+
+/* =====================Start Banner area==================#*/
+
+
+.h1{
+	font-weight: bold !important;	
+}
+
+
+.Pricing_table h2.h1{
+	font-weight: 400 !important;
+	font-size: 40px;	
+}
+
+
+.contact_area h2.h1{
+	font-weight: 400 !important;
+	font-size: 40px;	
+}
+
+
+
+
+.teaching_area{
+	background: #F7F9FF !important;	
+}
+
+
+
+.bg-primary {
+	color: #fff !important;
+	background-color: #8490FF !important;
+
+
+}
+
+.btn-primary {
+	color: #fff !important;
+	background-color: #8490FF !important;
+	font-weight: bold !important;
+}
+
+.Pricing_table {
+	background-color: #F9F9FF !important;
+}
+
+
+.single_card .btn-outline-primary {
+	font-weight: 600 !important;
+	border:2px solid;
+}
+
+
+.single_card .btn-outline-primary:hover {
+	color:#fff !important;
+}
+
+
+.single_card ul {
+	margin:0;
+	padding: 0;
+	list-style-type: none;
+}
+
+
+.card_icon {
+	border-radius: 50%;
+	background: #F9F9FF;
+	height: 100px;
+	width:100px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.card_icon h1{
+	
+	line-height: 100px;
+}
+
+.contact_button button{
+	
+	background: #17A2B8 !important;
+}
+
+
+
+
+
+/* =====================End Banner area==================*/
+
+
+/* =====================Start Banner area==================*/
+
+/* =====================End Banner area==================*/
+
